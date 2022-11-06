@@ -1,0 +1,27 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 5px;
+}
+h1{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 200px;
+    border: 50px;
+    text-shadow: inherit;
+}
+p{
+    text-align: center;
+    border: 3px;
+    text-shadow: blue 10px;
+}
+ul{
+    padding-top: 2px;
+    padding-right: 15px;
+   text-align: center; 
+   font-size: 50px;
+   border: 30px;
+   color: blue;
+}
+   
+   
